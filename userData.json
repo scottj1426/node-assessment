@@ -10,12 +10,7 @@
     "city": "Scranton",
     "state": "Pennsylvania",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 2,
@@ -28,10 +23,7 @@
     "city": "Birmingham",
     "state": "Alabama",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 3,
@@ -44,12 +36,7 @@
     "city": "Fort Worth",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 4,
@@ -62,14 +49,7 @@
     "city": "Lancaster",
     "state": "Pennsylvania",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 5,
@@ -82,10 +62,7 @@
     "city": "Miami",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 6,
@@ -98,10 +75,7 @@
     "city": "Austin",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 7,
@@ -114,10 +88,7 @@
     "city": "Pasadena",
     "state": "California",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 8,
@@ -130,9 +101,7 @@
     "city": "Oceanside",
     "state": "California",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 9,
@@ -145,14 +114,7 @@
     "city": "Englewood",
     "state": "Colorado",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 10,
@@ -165,10 +127,7 @@
     "city": "Panama City",
     "state": "Florida",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 11,
@@ -181,10 +140,7 @@
     "city": "Flint",
     "state": "Michigan",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 12,
@@ -197,12 +153,7 @@
     "city": "Baltimore",
     "state": "Maryland",
     "type": "admin",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 13,
@@ -215,14 +166,7 @@
     "city": "Ashburn",
     "state": "Virginia",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 14,
@@ -235,10 +179,7 @@
     "city": "Baltimore",
     "state": "Maryland",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 15,
@@ -251,10 +192,7 @@
     "city": "Fort Worth",
     "state": "Texas",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 16,
@@ -267,14 +205,7 @@
     "city": "Saint Paul",
     "state": "Minnesota",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 17,
@@ -287,10 +218,7 @@
     "city": "Melbourne",
     "state": "Florida",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 18,
@@ -303,12 +231,7 @@
     "city": "Detroit",
     "state": "Michigan",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 19,
@@ -321,10 +244,7 @@
     "city": "Baton Rouge",
     "state": "Louisiana",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 20,
@@ -337,14 +257,7 @@
     "city": "Dallas",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 21,
@@ -357,10 +270,7 @@
     "city": "Washington",
     "state": "District of Columbia",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 22,
@@ -373,10 +283,7 @@
     "city": "Saint Petersburg",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 23,
@@ -389,10 +296,7 @@
     "city": "Anniston",
     "state": "Alabama",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 24,
@@ -405,12 +309,7 @@
     "city": "Miami",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 25,
@@ -423,14 +322,7 @@
     "city": "Evansville",
     "state": "Indiana",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 26,
@@ -443,14 +335,7 @@
     "city": "Philadelphia",
     "state": "Pennsylvania",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 27,
@@ -463,14 +348,7 @@
     "city": "Houston",
     "state": "Texas",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 28,
@@ -483,14 +361,7 @@
     "city": "Birmingham",
     "state": "Alabama",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 29,
@@ -503,14 +374,7 @@
     "city": "Sacramento",
     "state": "California",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 30,
@@ -523,12 +387,7 @@
     "city": "Washington",
     "state": "District of Columbia",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 31,
@@ -541,14 +400,7 @@
     "city": "Atlanta",
     "state": "Georgia",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 32,
@@ -561,14 +413,7 @@
     "city": "Huntington",
     "state": "West Virginia",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 33,
@@ -581,12 +426,7 @@
     "city": "Anchorage",
     "state": "Alaska",
     "type": "admin",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 34,
@@ -599,9 +439,7 @@
     "city": "Henderson",
     "state": "Nevada",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 35,
@@ -614,14 +452,7 @@
     "city": "El Paso",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 36,
@@ -634,10 +465,7 @@
     "city": "Asheville",
     "state": "North Carolina",
     "type": "admin",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 37,
@@ -650,10 +478,7 @@
     "city": "Los Angeles",
     "state": "California",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 38,
@@ -666,12 +491,7 @@
     "city": "Beaverton",
     "state": "Oregon",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 39,
@@ -684,14 +504,7 @@
     "city": "Lansing",
     "state": "Michigan",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 40,
@@ -704,9 +517,7 @@
     "city": "Virginia Beach",
     "state": "Virginia",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 41,
@@ -719,9 +530,7 @@
     "city": "Lubbock",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 42,
@@ -734,14 +543,7 @@
     "city": "Ocala",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 43,
@@ -754,9 +556,7 @@
     "city": "Jacksonville",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 44,
@@ -769,12 +569,7 @@
     "city": "Amarillo",
     "state": "Texas",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 45,
@@ -787,10 +582,7 @@
     "city": "Joliet",
     "state": "Illinois",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 46,
@@ -803,9 +595,7 @@
     "city": "South Lake Tahoe",
     "state": "California",
     "type": "moderator",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 47,
@@ -818,14 +608,7 @@
     "city": "Saint Louis",
     "state": "Missouri",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 48,
@@ -838,10 +621,7 @@
     "city": "Buffalo",
     "state": "New York",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 49,
@@ -854,10 +634,7 @@
     "city": "Indianapolis",
     "state": "Indiana",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 50,
@@ -870,10 +647,7 @@
     "city": "Palm Bay",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 51,
@@ -886,14 +660,7 @@
     "city": "Wilmington",
     "state": "North Carolina",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 52,
@@ -906,14 +673,7 @@
     "city": "Reno",
     "state": "Nevada",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 53,
@@ -926,10 +686,7 @@
     "city": "Dallas",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 54,
@@ -942,10 +699,7 @@
     "city": "New York City",
     "state": "New York",
     "type": "admin",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 55,
@@ -958,10 +712,7 @@
     "city": "Prescott",
     "state": "Arizona",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 56,
@@ -974,12 +725,7 @@
     "city": "Fullerton",
     "state": "California",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 57,
@@ -992,10 +738,7 @@
     "city": "Albany",
     "state": "New York",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 58,
@@ -1008,10 +751,7 @@
     "city": "Columbus",
     "state": "Georgia",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 59,
@@ -1024,10 +764,7 @@
     "city": "Charlottesville",
     "state": "Virginia",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 60,
@@ -1040,9 +777,7 @@
     "city": "New York City",
     "state": "New York",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 61,
@@ -1055,14 +790,7 @@
     "city": "Houston",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 62,
@@ -1075,14 +803,7 @@
     "city": "Anaheim",
     "state": "California",
     "type": "admin",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 63,
@@ -1095,10 +816,7 @@
     "city": "Omaha",
     "state": "Nebraska",
     "type": "admin",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 64,
@@ -1111,10 +829,7 @@
     "city": "Tacoma",
     "state": "Washington",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 65,
@@ -1127,10 +842,7 @@
     "city": "Harrisburg",
     "state": "Pennsylvania",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 66,
@@ -1143,10 +855,7 @@
     "city": "Frankfort",
     "state": "Kentucky",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 67,
@@ -1159,10 +868,7 @@
     "city": "Columbus",
     "state": "Ohio",
     "type": "admin",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 68,
@@ -1175,14 +881,7 @@
     "city": "Madison",
     "state": "Wisconsin",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 69,
@@ -1195,14 +894,7 @@
     "city": "Orlando",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 70,
@@ -1215,12 +907,7 @@
     "city": "Montgomery",
     "state": "Alabama",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 71,
@@ -1233,12 +920,7 @@
     "city": "Port Saint Lucie",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 72,
@@ -1251,12 +933,7 @@
     "city": "Des Moines",
     "state": "Iowa",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 73,
@@ -1269,9 +946,7 @@
     "city": "Sacramento",
     "state": "California",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 74,
@@ -1284,14 +959,7 @@
     "city": "Crawfordsville",
     "state": "Indiana",
     "type": "admin",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 75,
@@ -1304,10 +972,7 @@
     "city": "El Paso",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 76,
@@ -1320,10 +985,7 @@
     "city": "Fairfax",
     "state": "Virginia",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 77,
@@ -1336,14 +998,7 @@
     "city": "Charlotte",
     "state": "North Carolina",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 78,
@@ -1356,9 +1011,7 @@
     "city": "Saginaw",
     "state": "Michigan",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 79,
@@ -1371,14 +1024,7 @@
     "city": "New Brunswick",
     "state": "New Jersey",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 80,
@@ -1391,9 +1037,7 @@
     "city": "Detroit",
     "state": "Michigan",
     "type": "user",
-    "favorites": [
-      "cats"
-    ]
+    "favorites": ["cats"]
   },
   {
     "id": 81,
@@ -1406,12 +1050,7 @@
     "city": "Wilkes Barre",
     "state": "Pennsylvania",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 82,
@@ -1424,10 +1063,7 @@
     "city": "Tampa",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 83,
@@ -1440,10 +1076,7 @@
     "city": "Saint Louis",
     "state": "Missouri",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 84,
@@ -1456,10 +1089,7 @@
     "city": "Washington",
     "state": "District of Columbia",
     "type": "admin",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 85,
@@ -1472,12 +1102,7 @@
     "city": "Carol Stream",
     "state": "Illinois",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 86,
@@ -1490,14 +1115,7 @@
     "city": "Tucson",
     "state": "Arizona",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 87,
@@ -1510,14 +1128,7 @@
     "city": "Saint Louis",
     "state": "Missouri",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 88,
@@ -1530,14 +1141,7 @@
     "city": "Fort Worth",
     "state": "Texas",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 89,
@@ -1550,14 +1154,7 @@
     "city": "Anniston",
     "state": "Alabama",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 90,
@@ -1570,10 +1167,7 @@
     "city": "Louisville",
     "state": "Kentucky",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 91,
@@ -1586,10 +1180,7 @@
     "city": "Shreveport",
     "state": "Louisiana",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 92,
@@ -1602,10 +1193,7 @@
     "city": "Scottsdale",
     "state": "Arizona",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   },
   {
     "id": 93,
@@ -1618,12 +1206,7 @@
     "city": "Knoxville",
     "state": "Tennessee",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 94,
@@ -1636,14 +1219,7 @@
     "city": "Santa Monica",
     "state": "California",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 95,
@@ -1656,12 +1232,7 @@
     "city": "West Palm Beach",
     "state": "Florida",
     "type": "moderator",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 96,
@@ -1674,14 +1245,7 @@
     "city": "Minneapolis",
     "state": "Minnesota",
     "type": "moderator",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 97,
@@ -1694,12 +1258,7 @@
     "city": "Milwaukee",
     "state": "Wisconsin",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 98,
@@ -1712,12 +1271,7 @@
     "city": "Phoenix",
     "state": "Arizona",
     "type": "user",
-    "favorites": [
-      "angular",
-      "html",
-      "css",
-      "react"
-    ]
+    "favorites": ["angular", "html", "css", "react"]
   },
   {
     "id": 99,
@@ -1730,14 +1284,7 @@
     "city": "Sioux City",
     "state": "Iowa",
     "type": "user",
-    "favorites": [
-      "cats",
-      "dogs",
-      "angular",
-      "node",
-      "mongodb",
-      "sql"
-    ]
+    "favorites": ["cats", "dogs", "angular", "node", "mongodb", "sql"]
   },
   {
     "id": 100,
@@ -1750,9 +1297,6 @@
     "city": "Lakeland",
     "state": "Florida",
     "type": "user",
-    "favorites": [
-      "angular",
-      "react"
-    ]
+    "favorites": ["angular", "react"]
   }
 ]
